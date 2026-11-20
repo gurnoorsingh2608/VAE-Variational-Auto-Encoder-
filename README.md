@@ -12,7 +12,7 @@ The model compresses high-dimensional images ($28 \times 28 = 784$ pixels) into 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
 
-🔗 **[Launch Live Mini VAE Studio on Streamlit](https://share.streamlit.io/)** *(Replace with your deployed live link)*
+🔗 **[Launch Live Mini VAE Studio on Streamlit]([https://share.streamlit.io/](https://gurnoorsingh2608-vae-variational-auto-encoder--app-yflqud.streamlit.app/))**
 
 With the live web app, anyone can interact with the trained VAE in real time:
 - Generate new handwritten digits using interactive coordinate sliders
